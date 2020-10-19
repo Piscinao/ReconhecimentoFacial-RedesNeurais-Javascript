@@ -10,6 +10,7 @@ em assets/js/index.js na linha 32 para o nome da pasta criada e colocar as fotos
 </br>
 
 OBS.: Formato da foto deve ser .jpg caso queira alterar o formato é necessário alterar na linha 38 do arquivo assets/js/index.js, 
+</br>
       A função compara 5 fotos caso queira diminuir o número alterar o for na linha 36 do mesmo arquivo
 
 </br>
