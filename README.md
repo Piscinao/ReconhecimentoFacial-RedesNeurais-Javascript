@@ -1,6 +1,6 @@
 # ReconhecimentoFacial-RedesNeurais
 O script em questão usa fotos para comparar com o que está sendo exibido na câmera.
-Para melhor funcionamento é recomendado colocar pelo menos 4 fotos da pessoa em questão.
+Para melhor funcionamento é recomendado colocar pelo menos 5 fotos da pessoa em questão.
 </br>
 Para alterar as fotos como é um script para teste para ser implementado em um sistema não tem ligação com DB e etc..
 </br>
