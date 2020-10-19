@@ -9,7 +9,8 @@ e colocar as fotos com numeração 1.jpg por exemplo, para alterar a função co
 em assets/js/index.js na linha 32 para o nome da pasta criada e colocar as fotos dentro.
 </br>
 
-OBS.: Formato da foto deve ser .jpg caso queira alterar o formata é necessário alterar na linha 38 do arquivo assets/js/index.js
+OBS.: Formato da foto deve ser .jpg caso queira alterar o formato é necessário alterar na linha 38 do arquivo assets/js/index.js, 
+      A função compara 5 fotos caso queira diminuir o número alterar o for na linha 36 do mesmo arquivo
 
 </br>
 <strong>Tecnologia usada:</strong>
